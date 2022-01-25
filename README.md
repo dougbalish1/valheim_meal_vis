@@ -2,4 +2,4 @@
 Small python script and its resulting graph for visualizing combinations of food in Valheim
 
 
-<iframe src="https://dougbalish1.github.io/" width="1000" height="1000"></iframe>
+[Click here to view the interactive graph using minimum durations](https://dougbalish1.github.io/)
